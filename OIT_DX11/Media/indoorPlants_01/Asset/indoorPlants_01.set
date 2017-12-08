@@ -1,0 +1,18 @@
+// Created with FBXConvert.exe (Oct  5 2012 06:49:44)
+[node 0]
+type = model
+name = indoorPlants
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = 0 1 -0 0
+matrixRow2 = -0 -0 1 0
+matrixRow3 = 0 0 -0 1
+BoundingBoxCenter = 4.21607 4.96744 9.17225 
+BoundingBoxHalf = 5.19874 3.7392 5.12377 
+meshcount = 4
+material0 = dirt
+material1 = PRP_ShrubSmall_DM_A
+material2 = leavesTreeA
+material3 = barkTreeA
+shadowCastmaterial0 =TreeShadowCast
+shadowCastmaterial1 =ShrubShadowCast

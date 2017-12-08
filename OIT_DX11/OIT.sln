@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OIT", "OIT.vcxproj", "{B10C880B-1D16-887C-A691-9E7C129A937C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPUT", "..\CPUT\CPUT.vcxproj", "{812C837C-6D63-840D-1650-6A100266000F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "imgui", "..\imgui\imgui.vcxproj", "{6E38DE60-4128-499D-A86D-AE6634C95A74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectXTex", "..\DirectXTex\DirectXTex\DirectXTex_Desktop_2015_Win10.vcxproj", "{371B9FA9-4C90-4AC6-A123-ACED756D6C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10C880B-1D16-887C-A691-9E7C129A937C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B10C880B-1D16-887C-A691-9E7C129A937C}.Debug|Win32.Build.0 = Debug|Win32
+		{B10C880B-1D16-887C-A691-9E7C129A937C}.Debug|x64.ActiveCfg = Debug|x64
+		{B10C880B-1D16-887C-A691-9E7C129A937C}.Debug|x64.Build.0 = Debug|x64
+		{B10C880B-1D16-887C-A691-9E7C129A937C}.Release|Win32.ActiveCfg = Release|Win32
+		{B10C880B-1D16-887C-A691-9E7C129A937C}.Release|Win32.Build.0 = Release|Win32
+		{B10C880B-1D16-887C-A691-9E7C129A937C}.Release|x64.ActiveCfg = Release|x64
+		{B10C880B-1D16-887C-A691-9E7C129A937C}.Release|x64.Build.0 = Release|x64
+		{812C837C-6D63-840D-1650-6A100266000F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{812C837C-6D63-840D-1650-6A100266000F}.Debug|Win32.Build.0 = Debug|Win32
+		{812C837C-6D63-840D-1650-6A100266000F}.Debug|Win32.Deploy.0 = Debug|Win32
+		{812C837C-6D63-840D-1650-6A100266000F}.Debug|x64.ActiveCfg = Debug|x64
+		{812C837C-6D63-840D-1650-6A100266000F}.Debug|x64.Build.0 = Debug|x64
+		{812C837C-6D63-840D-1650-6A100266000F}.Debug|x64.Deploy.0 = Debug|x64
+		{812C837C-6D63-840D-1650-6A100266000F}.Release|Win32.ActiveCfg = Release|Win32
+		{812C837C-6D63-840D-1650-6A100266000F}.Release|Win32.Build.0 = Release|Win32
+		{812C837C-6D63-840D-1650-6A100266000F}.Release|Win32.Deploy.0 = Release|Win32
+		{812C837C-6D63-840D-1650-6A100266000F}.Release|x64.ActiveCfg = Release|x64
+		{812C837C-6D63-840D-1650-6A100266000F}.Release|x64.Build.0 = Release|x64
+		{812C837C-6D63-840D-1650-6A100266000F}.Release|x64.Deploy.0 = Release|x64
+		{6E38DE60-4128-499D-A86D-AE6634C95A74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E38DE60-4128-499D-A86D-AE6634C95A74}.Debug|Win32.Build.0 = Debug|Win32
+		{6E38DE60-4128-499D-A86D-AE6634C95A74}.Debug|x64.ActiveCfg = Debug|x64
+		{6E38DE60-4128-499D-A86D-AE6634C95A74}.Debug|x64.Build.0 = Debug|x64
+		{6E38DE60-4128-499D-A86D-AE6634C95A74}.Release|Win32.ActiveCfg = Release|Win32
+		{6E38DE60-4128-499D-A86D-AE6634C95A74}.Release|Win32.Build.0 = Release|Win32
+		{6E38DE60-4128-499D-A86D-AE6634C95A74}.Release|x64.ActiveCfg = Release|x64
+		{6E38DE60-4128-499D-A86D-AE6634C95A74}.Release|x64.Build.0 = Release|x64
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Debug|Win32.Build.0 = Debug|Win32
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Debug|Win32.Deploy.0 = Debug|Win32
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Debug|x64.ActiveCfg = Debug|x64
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Debug|x64.Build.0 = Debug|x64
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Release|Win32.ActiveCfg = Release|Win32
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Release|Win32.Build.0 = Release|Win32
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Release|x64.ActiveCfg = Release|x64
+		{371B9FA9-4C90-4AC6-A123-ACED756D6C77}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD627710-1D8F-4DDB-99E1-D0DD92DFAED8}
+	EndGlobalSection
+EndGlobal

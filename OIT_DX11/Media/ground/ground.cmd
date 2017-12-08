@@ -1,0 +1,1 @@
+-fbx:ground.fbx -outputdir:../CPRT/ground -overwritematerials:- 

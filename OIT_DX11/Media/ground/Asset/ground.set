@@ -1,0 +1,13 @@
+// Created with FBXConvert.exe (Oct  5 2012 06:49:44)
+[node 0]
+type = model
+name = ground
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = 0 1 -0 0
+matrixRow2 = -0 -0 1 0
+matrixRow3 = 0 0 -0 1
+BoundingBoxCenter = 0 0 -0 
+BoundingBoxHalf = 50 1.11022e-014 50 
+meshcount = 1
+material0 = ground1

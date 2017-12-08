@@ -1,0 +1,64 @@
+[glass1.mtl]
+MultiMaterial = true
+Material0 = glass11
+Material1 = glass12
+Material2 = glass12
+Material3 = glass12
+Material4 = glass12
+Material5 = glass12
+Material6 = glass12
+Material7 = glass12
+Material8 = glass12
+Material9 = glass12
+Material10 = glass12
+Material11 = glass12
+Material12 = glass12
+Material13 = glass13
+
+[defines1]
+AOIT_NODE_COUNT=2
+
+[defines2]
+AOIT_NODE_COUNT=4
+
+[defines3]
+AOIT_NODE_COUNT=8
+
+[defines4]
+AOIT_NODE_COUNT=2
+dopso=1
+
+[defines5]
+AOIT_NODE_COUNT=4
+dopso=1
+
+[defines6]
+AOIT_NODE_COUNT=8
+dopso=1
+
+[defines7]
+AOIT_NODE_COUNT=2
+dohdr=1
+
+[defines8]
+AOIT_NODE_COUNT=4
+dohdr=1
+
+[defines9]
+AOIT_NODE_COUNT=8
+dohdr=1
+
+[defines10]
+AOIT_NODE_COUNT=2
+dopso=1
+dohdr=1
+
+[defines11]
+AOIT_NODE_COUNT=4
+dopso=1
+dohdr=1
+
+[defines12]
+AOIT_NODE_COUNT=8
+dopso=1
+dohdr=1

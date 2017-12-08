@@ -1,0 +1,11 @@
+TEXTURE0 = $OffscreenColorBuffer
+
+VertexShaderFile    = FSSprite.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_5_0
+
+PixelShaderFile     = FSSprite.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_5_0
+
+RenderStateFile     = skybox11.rs

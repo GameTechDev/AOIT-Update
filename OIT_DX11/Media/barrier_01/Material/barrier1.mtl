@@ -1,0 +1,13 @@
+texture_DM = stoneTile_DM.dds
+texture_SM = stoneTile_SM.dds
+texture_ST = stoneTile_ST.dds
+texture_NM = stoneTile_NM.dds
+texture_AO = barrier_AO.dds
+texture_NMsRGB=FALSE
+VertexShaderFile    = barrier.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = barrier.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = $DefaultRenderStates

@@ -1,0 +1,11 @@
+ReceiveShadows      = false
+
+texture_DM = tile_DM.dds
+VertexShaderFile    = fenceshadowCast.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = fenceshadowCast.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+
+RenderStateFile     = fenceshadowCast.rs

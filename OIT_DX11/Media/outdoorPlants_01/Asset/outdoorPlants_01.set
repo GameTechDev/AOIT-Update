@@ -1,0 +1,17 @@
+// Created with FBXConvert.exe (Oct  5 2012 06:49:44)
+[node 0]
+type = model
+name = outdoorplants
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = 0 1 -0 0
+matrixRow2 = -0 -0 1 0
+matrixRow3 = 0 0 -0 1
+BoundingBoxCenter = 9.78767 3.01209 10.0337 
+BoundingBoxHalf = 9.2887 2.61992 14.0899 
+meshcount = 3
+material0 = grassA2
+material1 = grassA1
+material2 = dirt
+shadowCastmaterial0 =grassShadowCast
+shadowCastmaterial1 =grassShadowCast

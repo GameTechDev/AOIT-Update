@@ -1,0 +1,11 @@
+texture_DM = PRP_Log_Amod_DM.dds
+texture_SM = PRP_Log_Amod_DM.dds
+texture_NM = PRP_Log_Amod_NM.dds
+texture_NMsRGB=FALSE
+VertexShaderFile    = barkTreeA.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = barkTreeA.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = $DefaultRenderStates

@@ -1,0 +1,15 @@
+texture0 = $SceneColor2
+
+VertexShaderFile    = ZoomBox.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_5_0
+
+GeometryShaderFile    = ZoomBox.fx
+GeometryShaderMain    = GS_Border
+GeometryShaderProfile = gs_5_0
+
+PixelShaderFile     = ZoomBox.fx
+PixelShaderMain     = PS_Border
+PixelShaderProfile  = ps_5_0
+
+RenderStateFile     = ZoomBorder.rs

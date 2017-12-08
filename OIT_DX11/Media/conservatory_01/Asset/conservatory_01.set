@@ -1,0 +1,75 @@
+// Created with FBXConvert.exe (Oct  5 2012 06:49:44)
+[node 0]
+type = model
+name = glass
+parent = -1
+matrixRow0 = 1 0 0 0
+matrixRow1 = 0 1 0 0
+matrixRow2 = 0 0 -1 0
+matrixRow3 = 0 0 0 1
+BoundingBoxCenter = 5 6.25 -10 
+BoundingBoxHalf = 10 3.75 -10 
+meshcount = 1
+material0 = glass1
+[node 1]
+type = model
+name = base
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = 0 1 -0 0
+matrixRow2 = -0 -0 1 0
+matrixRow3 = 0 0 -0 1
+BoundingBoxCenter = 5 1.25 10 
+BoundingBoxHalf = 10 1.25 10 
+meshcount = 1
+material0 = base1
+[node 2]
+type = model
+name = fences
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = 0 1 -0 0
+matrixRow2 = -0 -0 1 0
+matrixRow3 = 0 0 -0 1
+BoundingBoxCenter = 5.00059 2.52652 10.0012 
+BoundingBoxHalf = 9.05421 1.27652 9.05421 
+meshcount = 2
+material0 = fence
+material1 = fenceTubes
+shadowCastmaterial0 = fenceShadowCast
+[node 3]
+type = model
+name = glassTubes
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = 0 1 -0 0
+matrixRow2 = -0 -0 1 0
+matrixRow3 = 0 0 -0 1
+BoundingBoxCenter = 5 6.325 10.0015 
+BoundingBoxHalf = 10.125 3.925 10.1265 
+meshcount = 1
+material0 = glassTubes1
+[node 4]
+type = model
+name = cornerPosts
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = 0 1 -0 0
+matrixRow2 = -0 -0 1 0
+matrixRow3 = 0 0 -0 1
+BoundingBoxCenter = 5 1.25 10 
+BoundingBoxHalf = 11 1.25 11 
+meshcount = 1
+material0 = cornerPosts4
+[node 5]
+type = model
+name = platform
+parent = -1
+matrixRow0 = 1 0 -0 0
+matrixRow1 = 0 1 -0 0
+matrixRow2 = -0 -0 1 0
+matrixRow3 = 0 0 -0 1
+BoundingBoxCenter = 6.4803 0.625074 10.0012 
+BoundingBoxHalf = 13.5221 0.625074 15.0018 
+meshcount = 1
+material0 = platform2

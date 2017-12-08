@@ -1,0 +1,14 @@
+texture_DM = PRP_TreeLeaves_A.dds
+texture_SM = PRP_TreeLeaves_A.dds
+texture_ST = PRP_TreeLeaves_A_ST.dds
+texture_NM = PRP_TreeLeaves_A_NM.dds
+texture_EM = PRP_TreeLeaves_A.dds
+texture_NMsRGB=FALSE
+VertexShaderFile    = leaves.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = leaves.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = leavesNoDepth.rs
+RenderLayer			= CPUT_LAYER_SOLID

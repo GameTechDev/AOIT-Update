@@ -1,0 +1,64 @@
+MultiMaterial = true
+Material0 = fence1
+Material1 = fence2
+Material2 = fence3
+Material3 = fence3
+Material4 = fence3
+Material5 = fence3
+Material6 = fence3
+Material7 = fence3
+Material8 = fence3
+Material9 = fence3
+Material10 = fence3
+Material11 = fence3
+Material12 = fence3
+Material13 = fence3
+Material14 = fence4
+
+[defines2]
+AOIT_NODE_COUNT=2
+
+[defines3]
+AOIT_NODE_COUNT=4
+
+[defines4]
+AOIT_NODE_COUNT=8
+
+[defines5]
+AOIT_NODE_COUNT=2
+dopso=1
+
+[defines6]
+AOIT_NODE_COUNT=4
+dopso=1
+
+[defines7]
+AOIT_NODE_COUNT=8
+dopso=1
+
+[defines8]
+AOIT_NODE_COUNT=2
+dohdr=1
+
+[defines9]
+AOIT_NODE_COUNT=4
+dohdr=1
+
+[defines10]
+AOIT_NODE_COUNT=8
+dohdr=1
+
+[defines11]
+AOIT_NODE_COUNT=2
+dopso=1
+dohdr=1
+
+[defines12]
+AOIT_NODE_COUNT=4
+dopso=1
+dohdr=1
+
+[defines13]
+AOIT_NODE_COUNT=8
+dopso=1
+dohdr=1

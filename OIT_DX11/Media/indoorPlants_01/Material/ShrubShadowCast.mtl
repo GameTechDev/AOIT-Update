@@ -1,0 +1,11 @@
+ReceiveShadows      = false
+
+texture_DM = PRP_ShrubSmall_A.dds
+VertexShaderFile    = ShrubshadowCast.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = ShrubshadowCast.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+
+RenderStateFile     = ShadowCast.rs

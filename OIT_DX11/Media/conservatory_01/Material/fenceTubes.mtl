@@ -1,0 +1,16 @@
+texture_DM = gunmetal_4x4.dds
+texture_SM = tile_SM.dds
+texture_ST = tile_ST.dds
+texture_NM = normalBlank_4x4.dds
+texture_AO = conservatory_AO.dds
+texture_NMsRGB=FALSE
+VertexShaderFile    = fenceTubes.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = fenceTubes.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = %Default.rs
+
+VertexShaderFileOGL_1 = fenceTubes.glsl
+FragmentShaderFileOGL_1 = fenceTubes.glsl

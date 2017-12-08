@@ -1,0 +1,13 @@
+texture_DM = glassDirty_DM.dds
+texture_SM = lightBlue_4x4.dds
+texture_AO = conservatory_AO.dds
+gAOITSPClearMaskUAV = $ClearMaskRT
+VertexShaderFile    = glass.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_5_0
+PixelShaderFile     = glass.fx
+PixelShaderMain     = PSAOIT
+PixelShaderProfile  = ps_5_0
+RenderStateFile     = DiffSpecAoAlphaNoDepthMaskStencil.rs
+RenderLayer			= CPUT_LAYER_TRANSPARENT
+

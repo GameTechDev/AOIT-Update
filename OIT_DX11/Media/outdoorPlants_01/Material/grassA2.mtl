@@ -1,0 +1,66 @@
+[grassA2.mtl]
+MultiMaterial = true
+Material0 = grassA21
+Material1 = grassA22
+Material2 = grassA23
+Material3 = grassA24
+Material4 = grassA24
+Material5 = grassA24
+Material6 = grassA24
+Material7 = grassA24
+Material8 = grassA24
+Material9 = grassA24
+Material10 = grassA24
+Material11 = grassA24
+Material12 = grassA24
+Material13 = grassA24
+Material14 = grassA24
+Material15 = grassA25
+
+[defines3]
+AOIT_NODE_COUNT = 2
+
+[defines4]
+AOIT_NODE_COUNT = 4
+
+[defines5]
+AOIT_NODE_COUNT = 8
+
+[defines6]
+AOIT_NODE_COUNT = 2
+dopso=1
+
+[defines7]
+AOIT_NODE_COUNT = 4
+dopso=1
+
+[defines8]
+AOIT_NODE_COUNT = 8
+dopso=1
+
+[defines9]
+AOIT_NODE_COUNT=2
+dohdr=1
+
+[defines10]
+AOIT_NODE_COUNT=4
+dohdr=1
+
+[defines11]
+AOIT_NODE_COUNT=8
+dohdr=1
+
+[defines12]
+AOIT_NODE_COUNT = 2
+dopso=1
+dohdr=1
+
+[defines13]
+AOIT_NODE_COUNT = 4
+dopso=1
+dohdr=1
+
+[defines14]
+AOIT_NODE_COUNT = 8
+dopso=1
+dohdr=1

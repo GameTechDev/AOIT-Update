@@ -1,0 +1,15 @@
+texture_DM = PRP_Plant_A_DM.dds
+texture_SM = PRP_Plant_A_DM.dds
+texture_ST = PRP_Plant_A_DM.dds
+texture_NM = PRP_Plant_A_NM.dds
+texture_EM = PRP_Plant_A_DM.dds
+gAOITSPClearMaskUAV = $ClearMaskRT
+texture_NMsRGB=FALSE
+VertexShaderFile    = leaves.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = leaves.fx
+PixelShaderMain    = PSAOIT
+PixelShaderProfile  = ps_5_0
+RenderStateFile     = leavesNoDepthMaskStencil.rs
+RenderLayer			= CPUT_LAYER_TRANSPARENT

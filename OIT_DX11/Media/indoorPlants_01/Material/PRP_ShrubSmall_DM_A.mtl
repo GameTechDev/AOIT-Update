@@ -1,0 +1,67 @@
+[PRP_ShrubSmall_DM_A.mtl]
+MultiMaterial = true
+Material0 = PRP_ShrubSmall_DM_A1
+Material1 = PRP_ShrubSmall_DM_A2
+Material2 = PRP_ShrubSmall_DM_A3
+Material3 = PRP_ShrubSmall_DM_A4
+Material4 = PRP_ShrubSmall_DM_A4
+Material5 = PRP_ShrubSmall_DM_A4
+Material6 = PRP_ShrubSmall_DM_A4
+Material7 = PRP_ShrubSmall_DM_A4
+Material8 = PRP_ShrubSmall_DM_A4
+Material9 = PRP_ShrubSmall_DM_A4
+Material10 = PRP_ShrubSmall_DM_A4
+Material11 = PRP_ShrubSmall_DM_A4
+Material12 = PRP_ShrubSmall_DM_A4
+Material13 = PRP_ShrubSmall_DM_A4
+Material14 = PRP_ShrubSmall_DM_A4
+Material15 = PRP_ShrubSmall_DM_A5
+
+[defines3]
+AOIT_NODE_COUNT = 2
+
+[defines4]
+AOIT_NODE_COUNT = 4
+
+[defines5]
+AOIT_NODE_COUNT = 8
+
+
+[defines6]
+AOIT_NODE_COUNT = 2
+dopso=1
+
+[defines7]
+AOIT_NODE_COUNT = 4
+dopso=1
+
+[defines8]
+AOIT_NODE_COUNT = 8
+dopso=1
+
+[defines9]
+AOIT_NODE_COUNT=2
+dohdr=1
+
+[defines10]
+AOIT_NODE_COUNT=4
+dohdr=1
+
+[defines11]
+AOIT_NODE_COUNT=8
+dohdr=1
+
+[defines12]
+AOIT_NODE_COUNT = 2
+dopso=1
+dohdr=1
+
+[defines13]
+AOIT_NODE_COUNT = 4
+dopso=1
+dohdr=1
+
+[defines14]
+AOIT_NODE_COUNT = 8
+dopso=1
+dohdr=1

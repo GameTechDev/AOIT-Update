@@ -1,0 +1,66 @@
+[leavesTreeA.mtl]
+MultiMaterial = true
+Material0 = leavesTreeA1
+Material1 = leavesTreeA2
+Material2 = leavesTreeA3
+Material3 = leavesTreeA4
+Material4 = leavesTreeA4
+Material5 = leavesTreeA4
+Material6 = leavesTreeA4
+Material7 = leavesTreeA4
+Material8 = leavesTreeA4
+Material9 = leavesTreeA4
+Material10 = leavesTreeA4
+Material11 = leavesTreeA4
+Material12 = leavesTreeA4
+Material13 = leavesTreeA4
+Material14 = leavesTreeA4
+Material15 = leavesTreeA5
+
+[defines3]
+AOIT_NODE_COUNT = 2
+
+[defines4]
+AOIT_NODE_COUNT = 4
+
+[defines5]
+AOIT_NODE_COUNT = 8
+
+[defines6]
+AOIT_NODE_COUNT = 2
+dopso=1
+
+[defines7]
+AOIT_NODE_COUNT = 4
+dopso=1
+
+[defines8]
+AOIT_NODE_COUNT = 8
+dopso=1
+
+[defines9]
+AOIT_NODE_COUNT=2
+dohdr=1
+
+[defines10]
+AOIT_NODE_COUNT=4
+dohdr=1
+
+[defines11]
+AOIT_NODE_COUNT=8
+dohdr=1
+
+[defines12]
+AOIT_NODE_COUNT = 2
+dopso=1
+dohdr=1
+
+[defines13]
+AOIT_NODE_COUNT = 4
+dopso=1
+dohdr=1
+
+[defines14]
+AOIT_NODE_COUNT = 8
+dopso=1
+dohdr=1

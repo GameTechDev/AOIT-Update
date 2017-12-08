@@ -1,0 +1,11 @@
+ReceiveShadows      = false
+
+texture_DM = PRP_TreeLeaves_A.dds
+VertexShaderFile    = TreeshadowCast.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = TreeshadowCast.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+
+RenderStateFile     = ShadowCast.rs

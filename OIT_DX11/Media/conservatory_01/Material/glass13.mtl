@@ -1,0 +1,12 @@
+texture_DM = glassDirty_DM.dds
+texture_SM = lightBlue_4x4.dds
+texture_AO = conservatory_AO.dds
+VertexShaderFile    = glass.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = glass.fx
+PixelShaderMain    = GeometryCapturePS
+PixelShaderProfile  = ps_5_0
+RenderStateFile     = glass.rs
+RenderLayer			= CPUT_LAYER_TRANSPARENT
+

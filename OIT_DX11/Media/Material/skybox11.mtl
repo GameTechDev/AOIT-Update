@@ -1,0 +1,11 @@
+texture_EM = sky_cube.dds
+
+VertexShaderFile    = skybox11.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_5_0
+
+PixelShaderFile     = skybox11.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_5_0
+
+RenderStateFile     = skybox11.rs

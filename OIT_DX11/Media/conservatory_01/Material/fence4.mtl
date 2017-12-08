@@ -1,0 +1,15 @@
+texture_DM = tile_DM.dds
+texture_SM = tile_SM.dds
+texture_ST = tile_ST.dds
+texture_NM = tile_NM.dds
+texture_AO = conservatory_AO.dds
+texture_NMsRGB=FALSE
+VertexShaderFile    = fence.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = fence.fx
+PixelShaderMain    = GeometryCapturePS
+PixelShaderProfile  = ps_5_0
+RenderStateFile     = DiffSpecAoAlphaNoDepth.rs
+RenderLayer			= CPUT_LAYER_TRANSPARENT
+

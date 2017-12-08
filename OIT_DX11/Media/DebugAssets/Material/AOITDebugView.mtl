@@ -1,0 +1,13 @@
+gAOITSPClearMaskSRV = $ClearMaskRT
+
+VertexShaderFile    = %sprite.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_5_0
+
+PixelShaderFile     = AOITDebugView.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_5_0
+
+RenderStateFile     = %sprite.rs
+
+

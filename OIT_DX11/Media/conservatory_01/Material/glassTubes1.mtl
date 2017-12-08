@@ -1,0 +1,12 @@
+texture_DM = bronze_4x4.dds
+texture_SM = bronze_4x4.dds
+texture_RM = bronze_RM.dds
+texture_AO = conservatory_AO.dds
+VertexShaderFile    = glassTubes.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = glassTubes.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = $DefaultRenderStates
+
