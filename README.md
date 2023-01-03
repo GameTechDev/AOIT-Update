@@ -1,3 +1,7 @@
+# DISCONTINUATION OF PROJECT #
+This project will no longer be maintained by Intel.
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+Intel no longer accepts patches to this project.
 # AOIT-Update
 
 This is an update to the original sample from 2014, the update has two main changes compared to the previous code along with updating the samples to compile with the most recent versions of the Windows SDK and Microsoft Visual Studio*. 
